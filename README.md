@@ -82,6 +82,10 @@ To check if the Docker containers are running, use the following command:
 docker ps
 
 ```
+![Screen Shot 2023-07-30 at 12 45 49 PM](https://github.com/Mina314/Customer-Fraud-Microservices/assets/64227723/780bdb15-c667-4c67-9246-fa5679bf62f2)
+
+
+
 
 
 
