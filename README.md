@@ -1,3 +1,4 @@
+## About
 I developed a microservices-based application to perform fraud checks on customers and maintain a history of fraud checks. 
 The application consists of two microservices, Customer and Fraud, which communicate with each other over HTTP. 
 
