@@ -11,6 +11,8 @@ Fraud microservice performs fraud checks on customers and maintains a history of
 When a request is made to the microservice, it stores the result of the fraud check in its history (in this practice, I assumed no fraud initially). 
 The microservice then responds with the outcome, indicating whether the customer is flagged as a fraudster or not.
 
+![Screen Shot 2023-07-30 at 12 45 49 PM](https://github.com/Mina314/Customer-Fraud-Microservices/assets/64227723/780bdb15-c667-4c67-9246-fa5679bf62f2)
+
 
 Technologies Used:
 * Java
@@ -82,7 +84,7 @@ To check if the Docker containers are running, use the following command:
 docker ps
 
 ```
-![Screen Shot 2023-07-30 at 12 45 49 PM](https://github.com/Mina314/Customer-Fraud-Microservices/assets/64227723/780bdb15-c667-4c67-9246-fa5679bf62f2)
+
 
 
 
