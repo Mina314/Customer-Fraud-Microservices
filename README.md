@@ -15,14 +15,14 @@ The microservice then responds with the outcome, indicating whether the customer
 
 
 Technologies Used:
-* Java: The core programming language used for the development of the microservices
-* Spring Boot: A powerful framework used for building and deploying microservices
-* Spring Cloud: A suite of tools and frameworks used to implement microservices patterns and manage the distributed system
-* Maven: A popular build automation tool used for managing project dependencies and building the application
-* PostgreSQL: A robust relational database used for storing customer data and fraud check history
-* Docker: A containerization platform used to create and deploy containers for seamless application deployment
-* Lombok: A library used for code generation and reducing boilerplate code in Java classes
-* RESTful API: The communication protocol used to enable interaction between microservices
+* Java
+* Spring Boot
+* Spring Cloud
+* Maven
+* PostgreSQL
+* Docker
+* Lombok
+* RESTful API
 
 Initialize Steps Guide:
 
